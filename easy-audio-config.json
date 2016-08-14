@@ -1,0 +1,9 @@
+{
+	"text-color" : "white",
+	"output-location" : "/Users/ianthompson/Music/youtube-dl/",	// Be sure to include the "/" at the end. Ex: /Users/directory/Music/
+	"verbose" : true,
+	"audio-format" : "mp3",
+	"audio-quality": 0, // 0 being best, 10 being worst.
+	"playlist-output-format" : "%(playlist_index)s %(title)s.%(ext)s" // See youtube-dl configuration notes for more info. 
+	
+}
