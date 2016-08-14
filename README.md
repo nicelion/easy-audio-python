@@ -57,7 +57,7 @@ When you start easy-audio, you will be asked to provide a link or a command. Bel
   
 #### auto-clear
 
-Not yet supported.
+Not yet supportedm but will be supported soon.
 
 <!-- By turning auto-clear on, after each file is downloaded, Terminal will clear. 
 
@@ -69,7 +69,7 @@ You will be promted to provide "y" or "n". "y" will turn it on and "n" will eith
 
 #### quiet-mode
 
-Not yet supported.
+Not yet supported, but will be supported soon.
 
 <!-- youtube-dl will not show any output when quiet-mode is on. 
 
@@ -81,8 +81,8 @@ To turn quiet-mode on, simply type the following when easy0audio is running:
   
     quiet
    -->
-  You will be promted to provide "y" or "n". "y" will turn it on and "n" will either turn it off, or just cancel.
-
+<!--   You will be promted to provide "y" or "n". "y" will turn it on and "n" will either turn it off, or just cancel.
+ -->
 
 ## Copyright
 
