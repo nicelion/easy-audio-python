@@ -39,9 +39,12 @@ def playlist(url):
 
     print(data["title"])
 
+
+
     album_name = data["title"]
     directory = path + album_name
     print(directory)
+
     os.mkdir(directory)
 
     output = "\"" + directory + "/%(playlist_index)s %(title)s.%(ext)s\""
